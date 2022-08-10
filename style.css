@@ -1,0 +1,40 @@
+body {
+    background-image: url(imagens/backgroundphoto.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    
+    height: 100vh;
+    
+}
+
+.centercontainer{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    background-color: rgb(148, 51, 51);
+    
+
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.nomeIDENTIDADE {
+
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+
+
+
+}
+
+
